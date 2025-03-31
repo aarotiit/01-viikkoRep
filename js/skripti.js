@@ -54,6 +54,7 @@ console.log(typeof isStudent);
 console.log(typeof hobbies);
 console.log(typeof school);
 
+// Numerot_01.js
 function convertNumberToString(number) {
   number = number.toString();
 
@@ -66,7 +67,6 @@ function convertStringToNumber(string) {
   return string;
 }
 
-// Numerot_01.js
 console.log(convertNumberToString(42)); // haluttu vastaus: "42"
 console.log(convertNumberToString(97)); // haluttu vastaus: "97"
 console.log(convertNumberToString(11)); // haluttu vastaus: "11"
